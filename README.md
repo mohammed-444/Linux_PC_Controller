@@ -38,7 +38,7 @@ Make sure you meet the following prerequisites before you start:
 1. Clone this repository to your local machine:
 
    ```bash
-   
+   git clone https://github.com/mohammed-444/Linux_PC_Controller
    ```
 
 2. Compile the server program:
